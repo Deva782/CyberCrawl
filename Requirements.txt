@@ -1,2 +1,16 @@
-# requirements
-
+{ # requirements
+# tkinter as tk
+# from tkinter import ttk, messagebox, filedialog, scrolledtext
+# from bs4 import BeautifulSoup
+import requests
+import pandas as pd
+import time
+import json
+import threading
+import logging
+from typing import List, Dict, Optional
+from datetime import datetime
+import sys
+import queue
+import re }
+pip install tkinter beautifulsoup4 requests pandas 
