@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-Dark Web Scraper with GUI
-Educational tool for crawling .onion sites via Tor
-Author: AI Assistant
-Version: 1.1 (Target URL replaced with Custom Words)
-"""
 
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, scrolledtext
